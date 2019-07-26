@@ -3,3 +3,6 @@
 ## 运行步骤
 + 由于使用了Sanic包，所以需要在linux环境下运行，window用户可以使用linux子系统，可以查看这篇文章：https://blog.csdn.net/daydream13580130043/article/details/90734895，
 + 在linux子系统上安装Sanic包，再linux子系统中打开项目，进入app/bin目录，执行python3 main.py即可运行
+
+## Client端
+client端地址：https://github.com/sundial-dreams/BitMESClient
